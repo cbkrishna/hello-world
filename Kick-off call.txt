@@ -1,0 +1,38 @@
+what is the file type?
+Do we have any sample file & current report?
+Where do we start ?
+
+
+To use departure date parameter for 12 KPIs
+
+2 types of files come from Log Net
+1-3 --> one file
+4--9 --> 2nd file
+
+2 years data to display
+-should we receive the data accumulated or incremental
+
+Country / Location codes table may need to be maintained
+
+Booking KPI
+column = AL for calculations
+per custome
+EShip date vs actual book date
+
+
+4. Container Report
+Location table need tobe maintained
+4 reports
+-No. of container / month
+-CM Volume per orgin/month
+-YTD Volume per origin/month
+-trend per month (YTD)
+
+5. Container Utilization
+-calculation of %ge utilization
+-2 reports Current Month & YTD
+
+
+
+
+
